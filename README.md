@@ -28,7 +28,8 @@ cd Wine-Quality-Classification
 2️⃣ Set Up Virtual Environment (Recommended)
 
 python -m venv venv
-source venv/bin/activate  # On Mac/Linux
+
+source venv/bin/activate  # On Mac/Linux  
 venv\Scripts\activate     # On Windows
 
 3️⃣ Install Dependencies
@@ -38,6 +39,7 @@ pip install jupyter pandas numpy matplotlib seaborn scikit-learn xgboost
 4️⃣ Run the Jupyter Notebook
 
 jupyter notebook
+
 Open Wine_Quality.ipynb and run the cells.
 
 🏗 Project Workflow
