@@ -7,21 +7,15 @@ This project leverages machine learning techniques to classify wine into "good" 
 🚀 Features
 
 Data Preprocessing & Feature Engineering
-
 Comparative Analysis of Machine Learning Models (KNN, SVM, Naïve Bayes, Random Forest, XGBoost, Logistic Regression)
-
 Hyperparameter Tuning using Grid Search
-
 Evaluation Metrics: Accuracy, Precision, Recall, and F1 Score
-
 Data Visualizations (Feature Correlation, Model Performance, and Feature Importance)
 
 📂 Dataset
 
 The dataset is publicly available on the UCI Machine Learning Repository:
-
 Red Wine Dataset: 1599 instances
-
 Features: 11 input features and 1 output feature (quality)
 
 🔧 Installation & Setup
@@ -44,7 +38,6 @@ pip install -r requirements.txt
 4️⃣ Run the Jupyter Notebook
 
 jupyter notebook
-
 Open Wine_Quality.ipynb and run the cells.
 
 🏗 Project Workflow
@@ -52,15 +45,12 @@ Open Wine_Quality.ipynb and run the cells.
 1️⃣ Data Preprocessing
 
 Handling missing values
-
 Normalizing features
-
 Analyzing correlations
 
 2️⃣ Model Training
 
 KNN, SVM, Naïve Bayes, Random Forest, XGBoost, Logistic Regression
-
 Splitting dataset into training & testing sets
 
 3️⃣ Hyperparameter Tuning
@@ -70,37 +60,29 @@ Optimizing model parameters using Grid Search
 4️⃣ Model Evaluation
 
 Accuracy, Precision, Recall, F1-score
-
 Confusion Matrices & Performance Graphs
 
 📊 Results
 
 Model
-
 Accuracy
 
 Random Forest
-
 89.3%
 
 K-Nearest Neighbors (KNN)
-
 87.2%
 
 Logistic Regression
-
 87.0%
 
 Support Vector Classifier (SVC)
-
 86.8%
 
 Decision Tree
-
 86.4%
 
 Gaussian Naïve Bayes
-
 83.3%
 
 📌 Random Forest achieved the highest accuracy (89.3%), making it the best model for wine quality classification.
@@ -108,9 +90,7 @@ Gaussian Naïve Bayes
 📈 Visualizations
 
 Data Distribution (Histograms, Boxplots)
-
 Feature Importance (Random Forest & XGBoost)
-
 Model Performance (Confusion Matrices, Accuracy Graphs)
 
 📝 License
@@ -126,3 +106,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 For questions or feedback, feel free to reach out:
 
 Name: Arnav Singh Bisht
+Email: arnavsb909@gmail.com
