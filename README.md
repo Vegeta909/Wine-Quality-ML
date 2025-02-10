@@ -33,7 +33,7 @@ venv\Scripts\activate     # On Windows
 
 3️⃣ Install Dependencies
 
-pip install -r requirements.txt
+pip install jupyter pandas numpy matplotlib seaborn scikit-learn xgboost
 
 4️⃣ Run the Jupyter Notebook
 
