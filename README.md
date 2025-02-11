@@ -95,13 +95,9 @@ Data Distribution (Histograms, Boxplots)
 Feature Importance (Random Forest & XGBoost)
 Model Performance (Confusion Matrices, Accuracy Graphs)
 
-📝 License
-
-This project is open-source and available under the MIT License.
-
 🤝 Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue.
 
 📩 Contact
 
