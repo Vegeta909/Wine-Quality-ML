@@ -80,3 +80,5 @@ This project is open-source and available under the **MIT License**.
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **open an issue**.
 
+## 📬 Contact
+**GitHub:** [Vegeta909](https://github.com/Vegeta909)  
